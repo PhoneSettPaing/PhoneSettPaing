@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm John Doe
+# 👋 Hi there, I'm Phone Sett Paing
 
 Welcome to my GitHub! I'm a passionate software developer who loves turning ideas into reality through code. 🚀  
 I'm currently diving deep into full-stack development, clean code practices, and open-source collaboration.
@@ -29,9 +29,9 @@ I'm currently diving deep into full-stack development, clean code practices, and
 
 ## 📊 GitHub Stats
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![Phone's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoneSettPaing&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoneSettPaing&layout=compact&theme=radical)
 
 ---
 
