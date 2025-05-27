@@ -1,19 +1,8 @@
 # 👋 Hi there, I'm Phone Sett Paing
 
-Welcome to my GitHub! I'm a passionate software developer who loves turning ideas into reality through code. 🚀  
-I'm currently diving deep into full-stack development, clean code practices, and open-source collaboration.
+Welcome to my GitHub! I'm a Junior Software Developer who made the leap from customer-facing roles after discovering how much I enjoy the creativity and problem-solving side of coding. 🚀 
 
----
-
-## 🧠 About Me
-
-- 🔭 I’m currently working on: personal projects & contributing to open-source
-- 🌱 I’m learning: React, TypeScript, and DevOps tools
-- 💬 Ask me about: web development, Git, or anything tech!
-- 📫 How to reach me: [johndoe.dev](https://johndoe.dev) | [LinkedIn](https://linkedin.com/in/johndoe) | [Twitter](https://twitter.com/johndoe)
-- ⚡ Fun fact: I love tech memes and keyboard shortcuts!
-
----
+I'm currently completing Northcorders bootcamp and diving deep into full-stack development, clean code practices, and open-source collaboration.
 
 ## 🛠️ Languages & Tools
 
