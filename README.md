@@ -28,12 +28,6 @@ I'm currently completing Northcorders bootcamp and diving deep into full-stack d
 
 I'm always open to collaborating on cool projects, learning together, or just chatting about tech.
 
-<p align="center">
-  <a href="https://github.com/johndoe">
-    <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="100px;" alt="Profile picture"/>
-  </a>
-</p>
-
 ---
 
 _Thanks for stopping by! Don't forget to star ⭐ your favorite repos!_
