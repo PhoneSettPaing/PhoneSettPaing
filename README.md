@@ -1,34 +1,37 @@
-# 👋 Hi there, I'm Phone Sett Paing
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=069C41&center=true&multiline=true&width=620&height=80&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Phone+Sett+Paing.;A+Junior+Software+Developer." alt="Typing SVG" /></a></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=phonesettpaing&label=Profile%20views&color=0e75b6&style=flat" alt="phonesettpaing" /> </p>
+
+## 🧠 About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />
 
 Welcome to my GitHub! I'm a Junior Software Developer who made the leap from customer-facing roles after discovering how much I enjoy the creativity and problem-solving side of coding. 🚀 
 
-I'm currently completing Northcorders bootcamp and diving deep into full-stack development, clean code practices, and open-source collaboration.
+I'm currently completing Northcoders bootcamp and diving deep into full-stack development, clean code practices, and open-source collaboration.
+
+- 🔭 I’m currently working on **personal & group projects**
+  
+- 🌱 I’m currently learning **React, Next, TypeScript, Tailwind**
+
+<br/>
 
 ## 🛠️ Languages & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff)
+<p align="left"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </p>
 
----
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PhoneSettPaing&theme=whatsapp-dark2&hide_border=true)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
 
-![Phone's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoneSettPaing&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phonesettpaing&show_icons=true&locale=en&layout=compact" alt="phonesettpaing" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoneSettPaing&layout=compact&theme=radical)
-
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phonesettpaing&show_icons=true&locale=en" alt="phonesettpaing" /></p>
 
 ## ☕ Let's Connect
 
-I'm always open to collaborating on cool projects, learning together, or just chatting about tech.
-
----
-
-_Thanks for stopping by! Don't forget to star ⭐ your favorite repos!_
-
+<p align="left">
+<a href="https://linkedin.com/in/phonesettpaing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phonesettpaing" height="30" width="40" /></a>
+</p>
