@@ -30,6 +30,8 @@ I'm currently completing Northcoders bootcamp and diving deep into full-stack de
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phonesettpaing&show_icons=true&locale=en" alt="phonesettpaing" /></p>
 
+![Phone's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoneSettPaing&theme=dark&show_icons=true)
+
 ## ☕ Let's Connect
 
 <p align="left">
