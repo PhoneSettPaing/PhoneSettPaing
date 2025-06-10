@@ -26,7 +26,7 @@ I'm currently completing Northcoders bootcamp and diving deep into full-stack de
 
 ## 📊 GitHub Stats
 
-![Phone's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoneSettPaing&theme=blue-green&show_icons=true&hide_border=true&text_color=3fb950&icon_color=ffffff&title_color=ffffff&bg_color=0d1117)
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=PhoneSettPaing&theme=blue-green&show_icons=true&hide_border=true&text_color=3fb950&icon_color=ffffff&title_color=ffffff&bg_color=0d1117" alt="Phone's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoneSettPaing&layout=compact" alt="Phone's Top Langs" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phonesettpaing&show_icons=true&locale=en&layout=compact" alt="phonesettpaing" /></p>
 
