@@ -8,7 +8,7 @@
 
 Welcome to my GitHub! I'm a Junior Software Developer who made the leap from customer-facing roles after discovering how much I enjoy the creativity and problem-solving side of coding. 🚀 
 
-I'm currently completing Northcoders bootcamp and diving deep into full-stack development, clean code practices, and open-source collaboration.
+I've just graduated from the Northcoders bootcamp and diving deep into full-stack development, clean code practices, and open-source collaboration.
 
 - 🔭 I’m currently working on **personal & group projects**
   
@@ -26,11 +26,7 @@ I'm currently completing Northcoders bootcamp and diving deep into full-stack de
 
 ## 📊 GitHub Stats
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=PhoneSettPaing&theme=blue-green&show_icons=true&hide_border=true&text_color=3fb950&icon_color=ffffff&title_color=ffffff&bg_color=0d1117" alt="Phone's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoneSettPaing&layout=compact" alt="Phone's Top Langs" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phonesettpaing&show_icons=true&locale=en&layout=compact" alt="phonesettpaing" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phonesettpaing&show_icons=true&locale=en" alt="phonesettpaing" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=PhoneSettPaing&theme=blue-green&show_icons=true&hide_border=true" alt="Phone's GitHub stats" width="445"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoneSettPaing&layout=compact&theme=blue-green&hide_border=true" alt="Phone's Top Langs" width="340"/> </p>
 
 ## ☕ Let's Connect
 
