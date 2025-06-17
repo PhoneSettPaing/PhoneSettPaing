@@ -22,7 +22,7 @@ I've just graduated from the Northcoders bootcamp and diving deep into full-stac
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PhoneSettPaing&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
+[![Phone's GitHub Streak](https://streak-stats.demolab.com?user=PhoneSettPaing&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
 
