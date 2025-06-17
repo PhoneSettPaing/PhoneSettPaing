@@ -4,7 +4,7 @@
 
 ## 🧠 About Me
 
-<a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file#moving-logos-"><img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" /></a>
+<a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file#moving-logos-"><img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250" /></a>
 
 Welcome to my GitHub! I'm a Junior Software Developer who made the leap from customer-facing roles after discovering how much I enjoy the creativity and problem-solving side of coding. 🚀 
 
